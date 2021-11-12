@@ -1,8 +1,23 @@
 # miniproj1
-Projeto para a UC de Programação Web Avançada
-Nome do Projeto: MiniProj1
-Autor: Vicente Correia Alves
-Número UTAD: 75212
+## Projeto para a UC
+```
+Programação Web Avançada
+```
+
+### Nome do Projeto
+```
+MiniProj1
+```
+
+### Autor
+```
+Vicente Correia Alves
+```
+
+### Número UTAD
+```
+75212
+```
 
 ## Project setup
 ```
