@@ -1,7 +1,7 @@
 <template>
 
   <div class="inicio">
-    
+    <h1>MiniProj1 - PWA</h1>
     <img alt="Vue logo" src="../assets/logo.png" /><br />
     Projeto para a Unidade Curricular: Programação Web Avançada.<br />
     Uso da framework <b>Vue.js</b> para uma Single Page Application.
